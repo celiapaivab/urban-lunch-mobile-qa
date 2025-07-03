@@ -19,7 +19,7 @@ Planejar, executar e registrar testes manuais, identificando falhas funcionais n
 
 ---
 
-## 🔧 Ferramentas Utilizadas
+## 🔧 Tecnologias e Ferramentas
 
 - 📝 **Google Sheets** — checklist dos testes  
 - 🐞 **Jira** — registro e acompanhamento dos bugs  
@@ -60,7 +60,7 @@ Planejar, executar e registrar testes manuais, identificando falhas funcionais n
 
 ---
 
-## 📂 Evidências
+## 📂 Arquivos do Projeto
 
 - [`📄 Planilha de Checklist de Testes`](https://docs.google.com/spreadsheets/d/11fjU8EMM4fYHfMSK-fAh4IrPNMD9ay66qnT525WosVI/edit?usp=sharing)
 - [`🐞 Jira – Relatórios de Bug`](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S5/issues?jql=project%20%3D%20%22S5%22%20ORDER%20BY%20created%20DESC)
