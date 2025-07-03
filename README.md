@@ -19,7 +19,7 @@ Este projeto consistiu na criação de um checklist de testes e execução prát
 
 - 📝 **Google Sheets** — checklist dos testes  
 - 🐞 **Jira** — registro e acompanhamento dos bugs  
-- 📱 **Emulador Android** — execução dos testes  
+- 📱 **Android Studio** — execução dos testes  
 
 ---
 
@@ -32,6 +32,13 @@ Este projeto consistiu na criação de um checklist de testes e execução prát
 
 ---
 
+## ▶️ Como Executar
+
+Os testes foram realizados em um **emulador Pixel 5** configurado no Android Studio, utilizando a primeira versão do aplicativo Urban Lunch disponibilizada pela equipe de desenvolvimento.  
+Os bugs foram registrados no Jira e os resultados organizados no Google Sheets.
+
+---
+
 ## 🐞 Links para o projeto
 
 - [`📄 Planilha de Checklist de Testes`](https://docs.google.com/spreadsheets/d/11fjU8EMM4fYHfMSK-fAh4IrPNMD9ay66qnT525WosVI/edit?usp=sharing)
@@ -39,7 +46,9 @@ Este projeto consistiu na criação de um checklist de testes e execução prát
 
 ---
 
-## ✍️ Autora
+## 🇺🇸 Project Summary
 
-Celia Bruno — Analista de QA em formação
+**Urban Lunch Manual Testing** — QA project focused on manual testing for the **Urban Lunch** Android app.  
+The scope included designing a test checklist based on app requirements, running tests on an Android emulator, recording results and creating detailed bug reports in Jira.  
+All test evidence and bug tracking are documented for transparency and review.
 
