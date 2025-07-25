@@ -4,6 +4,8 @@
 ![Ferramenta](https://img.shields.io/badge/Google%20Sheets-Checklist-green)
 ![Bug Tracking](https://img.shields.io/badge/Jira-Relatórios%20de%20Bug-orange)
 ![Emulador](https://img.shields.io/badge/Emulador-Android%20Pixel%205-lightgrey?logo=android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/celia-bruno)
+
 
 ---
 
